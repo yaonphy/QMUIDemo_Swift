@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "95BF321FEA039169A27B3E4BAD71075B0AA1EABE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6FCCA11D87E1D31DFF63B57C5C242D9966C972B9" : 9223372036854775807,
+    "95BF321FEA039169A27B3E4BAD71075B0AA1EABE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E1A53ACC-B4DB-45AA-9901-9CF28209CEDA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6FCCA11D87E1D31DFF63B57C5C242D9966C972B9" : "QMUI_Swift\/",
+    "95BF321FEA039169A27B3E4BAD71075B0AA1EABE" : "QMUIDemo_Swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QMUIDemo_Swift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QMUIDemo_Swift\/QMUIDemo_Swift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yaonphy\/QMUI_Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FCCA11D87E1D31DFF63B57C5C242D9966C972B9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yaonphy\/QMUIDemo_Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95BF321FEA039169A27B3E4BAD71075B0AA1EABE"
+    }
+  ]
+}
