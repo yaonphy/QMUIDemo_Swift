@@ -650,6 +650,7 @@
 				A302E0141EBA2B4A0078A87B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A302E0151EBA2B4A0078A87B /* Build configuration list for PBXNativeTarget "QMUIDemo_SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -658,6 +659,7 @@
 				A302E0171EBA2B4A0078A87B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A302E0181EBA2B4A0078A87B /* Build configuration list for PBXNativeTarget "QMUIDemo_SwiftUITests" */ = {
 			isa = XCConfigurationList;
@@ -666,6 +668,7 @@
 				A302E01A1EBA2B4A0078A87B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
